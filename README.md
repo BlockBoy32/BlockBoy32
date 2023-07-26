@@ -1,6 +1,7 @@
 # Just tryna survive, building block by block.
 
 
+
 ## Token Strategy
 
 - [General Tokenomics Research(Not Being Updated Anymore]( [url] (https://docs.google.com/document/d/1dJ1xEBnj2ZRp2CvxpsUOuZY27Vb28ixdMGlf7GmxAPM/edit)) 
