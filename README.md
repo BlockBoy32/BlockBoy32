@@ -17,10 +17,10 @@
 
 ## Favorite Dingy Internet Culture
 
--[Testifying at the Senate about A.I.-Selected Content on the Internet]([url](https://writings.stephenwolfram.com/2019/06/testifying-at-the-senate-about-a-i-selected-content-on-the-internet/))
-- [1,000 True Fans]([url](https://kk.org/thetechnium/1000-true-fans/))
-- [Meditations on Moloch]([url](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/))
-- [Positional Scarcity]([url](https://alexdanco.com/2019/09/07/positional-scarcity/))
-- [The Tyranny of Structurelessness]([url](https://www.jofreeman.com/joreen/tyranny.htm))
-- [The Fable of the Dragon-Tyrant]([url](https://nickbostrom.com/fable/dragon))
-- [Geeks, MOPs, and sociopaths in subculture evolution]([url](https://meaningness.com/geeks-mops-sociopaths)https://meaningness.com/geeks-mops-sociopaths)
+-[Testifying at the Senate about A.I.-Selected Content on the Internet]( [url] (https://writings.stephenwolfram.com/2019/06/testifying-at-the-senate-about-a-i-selected-content-on-the-internet/))
+- [1,000 True Fans]( [url] (https://kk.org/thetechnium/1000-true-fans/))
+- [Meditations on Moloch]( [url] (https://slatestarcodex.com/2014/07/30/meditations-on-moloch/))
+- [Positional Scarcity]( [url] (https://alexdanco.com/2019/09/07/positional-scarcity/))
+- [The Tyranny of Structurelessness]( [url] (https://www.jofreeman.com/joreen/tyranny.htm))
+- [The Fable of the Dragon-Tyrant]( [url] (https://nickbostrom.com/fable/dragon))
+- [Geeks, MOPs, and sociopaths in subculture evolution]( [url] (https://meaningness.com/geeks-mops-sociopaths)https://meaningness.com/geeks-mops-sociopaths)
