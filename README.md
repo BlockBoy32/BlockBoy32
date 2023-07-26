@@ -15,12 +15,15 @@
 - [Machinations Models]( [url] (https://machinations.io/community/blockboy3214/profile)) 
 
 
-## Favorite Dingy Internet Culture
+## A Few Favorite Internet Culture Relevant Stuff  
 
--[Testifying at the Senate about A.I.-Selected Content on the Internet]( [url] (https://writings.stephenwolfram.com/2019/06/testifying-at-the-senate-about-a-i-selected-content-on-the-internet/))
+- [Testifying at the Senate about A.I.-Selected Content on the Internet]( [url] (https://writings.stephenwolfram.com/2019/06/testifying-at-the-senate-about-a-i-selected-content-on-the-internet/))
+- [The Digital Maginot Line]( [url] (https://www.ribbonfarm.com/2018/11/28/the-digital-maginot-line/))
 - [1,000 True Fans]( [url] (https://kk.org/thetechnium/1000-true-fans/))
 - [Meditations on Moloch]( [url] (https://slatestarcodex.com/2014/07/30/meditations-on-moloch/))
 - [Positional Scarcity]( [url] (https://alexdanco.com/2019/09/07/positional-scarcity/))
 - [The Tyranny of Structurelessness]( [url] (https://www.jofreeman.com/joreen/tyranny.htm))
 - [The Fable of the Dragon-Tyrant]( [url] (https://nickbostrom.com/fable/dragon))
-- [Geeks, MOPs, and sociopaths in subculture evolution]( [url] (https://meaningness.com/geeks-mops-sociopaths)https://meaningness.com/geeks-mops-sociopaths)
+- [Geeks, MOPs, and sociopaths in subculture evolution]( [url] (https://meaningness.com/geeks-mops-sociopaths))
+
+If you want to add more just add a request or message me!!
