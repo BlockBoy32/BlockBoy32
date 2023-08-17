@@ -1,7 +1,7 @@
 ## Token Modeling
 
-- [RadCad Quantitative Token Model (WIP)](https://github.com/BlockBoy32/QTM-Interface)
-- [Machinations Macro Models](https://machinations.io/community/blockboy3214/profile)
+- [Quantitative Token Model in CadCad (WIP)](https://github.com/BlockBoy32/QTM-Interface)
+- [Macro Models in Machinations](https://machinations.io/community/blockboy3214/profile)
 
 
 
