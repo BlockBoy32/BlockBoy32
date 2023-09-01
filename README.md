@@ -8,9 +8,9 @@
 ## Token Strategy
 
 - [General Tokenomics Research (Not Being Updated Anymore)](https://docs.google.com/document/d/1dJ1xEBnj2ZRp2CvxpsUOuZY27Vb28ixdMGlf7GmxAPM/edit)
-- [External Tokenomic Frameworks](https://docs.google.com/document/d/1qGi-FgZZ4x1E3HFKaGlnqHz4cqeP62mQ8WYZQSHnXek/edit?usp=sharing)
+- [Curated Tokenomic Frameworks](https://docs.google.com/document/d/1qGi-FgZZ4x1E3HFKaGlnqHz4cqeP62mQ8WYZQSHnXek/edit?usp=sharing)
 - [Tokenimics 101: Degen-to-Designer](https://docs.google.com/presentation/d/1xgtN2z9drbYBpiHQNHojWqvoIfjYv5Tl1XmNqAd8Cpk/edit#slide=id.g15ad51abbab_0_9)
-- [Discovering Objectives and Constraints](https://app.mural.co/t/bankless6674/m/bankless6674/1680471118240/903ae765141a631b4e0026dba2fa3aaacbf73844?sender=uee8cd8a37f45eca0663a0263)
+- [My Writings](https://blockboy.substack.com/p/the-music-of-markets?utm_campaign=post&utm_medium=web)
 
 
 
