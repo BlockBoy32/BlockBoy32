@@ -8,7 +8,7 @@
 
 ## Token Content
 
-- [My Writings]([https://blockboy.substack.com/p/the-music-of-markets?utm_campaign=post&utm_medium=web](https://newontheblock.substack.com/))
+- [My Writings](https://newontheblock.substack.com/)
 - [General Tokenomics Research (Not Being Updated Anymore)](https://docs.google.com/document/d/1dJ1xEBnj2ZRp2CvxpsUOuZY27Vb28ixdMGlf7GmxAPM/edit)
 - [Curated Tokenomic Frameworks](https://docs.google.com/document/d/1qGi-FgZZ4x1E3HFKaGlnqHz4cqeP62mQ8WYZQSHnXek/edit?usp=sharing)
 - [Tokenimics 101: Degen-to-Designer](https://docs.google.com/presentation/d/1xgtN2z9drbYBpiHQNHojWqvoIfjYv5Tl1XmNqAd8Cpk/edit#slide=id.g15ad51abbab_0_9)
